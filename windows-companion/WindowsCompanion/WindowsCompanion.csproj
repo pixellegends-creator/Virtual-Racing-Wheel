@@ -13,7 +13,7 @@
 
   <ItemGroup>
     <PackageReference Include="Nefarius.ViGEm.Client" Version="1.21.256" />
-    <PackageReference Include="vJoyInterfaceWrap" Version="2.1.9.1" />
+    <PackageReference Include="CoreDX.vJoy.Wrapper" Version="1.2.3" />
   </ItemGroup>
 
 </Project>
