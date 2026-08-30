@@ -3,6 +3,9 @@ using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Forms; // NotifyIcon (tray)
 using Application = System.Windows.Application;
+using Button = System.Windows.Controls.Button;
+using ListBox = System.Windows.Controls.ListBox;
+using UserControl = System.Windows.Controls.UserControl;
 
 namespace WindowsCompanion
 {
